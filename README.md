@@ -29,6 +29,7 @@ RustChain Token (RTC) is now available as **wRTC** on Solana via the BoTTube Bri
 | **Price Chart** | [DexScreener](https://dexscreener.com/solana/8CF2Q8nSCxRacDShbtF86XTSrYjueBMKmfdR3MLdnYzb) |
 | **Bridge RTC ↔ wRTC** | [BoTTube Bridge](https://bottube.ai/bridge) |
 | **Token Mint** | `12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZYGf5i4X` |
+| **📘 Full Guide** | [wRTC Quickstart Guide](docs/wrtc.md) ← **Start here for step-by-step instructions!** |
 
 ---
 
